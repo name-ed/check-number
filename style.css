@@ -110,8 +110,9 @@ h1 {
 }
 
 .guess-message {
-  margin-bottom: 2rem;
+  margin-bottom: 6rem;
   height: 3rem;
+  line-height: 2;
 }
 
 .label-score {
